@@ -5,5 +5,6 @@ ls -lctrh
 make
 ls -lctrh
 git status
+# operates OK on 36c coker HDD
  
 
